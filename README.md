@@ -13,13 +13,18 @@ ships a modern light/dark UI with dashboards, charts, and built‑in attack dete
 > Designed as a faster, blue‑team‑friendly alternative to classic log viewers.
 ## 📸 Screenshots
  
-| Log Grid | Dashboard |
-|----------|-----------|
-| ![Log grid](docs/screenshots/grid.png) | ![Dashboard](docs/screenshots/dashboard.png) |
- 
-| Charts | Dark mode |
-|--------|-----------|
-| ![Charts](docs/screenshots/charts.png) | ![Dark mode](docs/screenshots/dark.png) |
+### Log Grid
+![Log grid](docs/screenshots/grid.png)
+
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Charts
+![Charts](docs/screenshots/charts.png)
+
+### Dark mode
+![Dark mode](docs/screenshots/dark.png)
+
 ## 🚀 Features
  
 - **Formats:** Apache (Common/Combined), Nginx, IIS W3C, Custom — with automatic format detection.
