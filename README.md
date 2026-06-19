@@ -52,4 +52,5 @@ No extra runtime is required — Qt, the MSVC runtime, and dependencies are bund
 **Requirements:** Qt 6.5+ (MSVC 64‑bit, incl. Qt Charts), Visual Studio 2022 (C++), CMake 3.21+, zlib, and NSIS (for the installer).
 
 ## 👤 Author
-**Sohaib JadAllah** — cybersecurity / blue‑team & systems developer.
+**Sohaib JadAllah** - cybersecurity / blue‑team & systems developer.
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sohaibjadallah)
