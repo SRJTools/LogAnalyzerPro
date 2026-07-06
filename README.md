@@ -46,10 +46,6 @@ ships a modern light/dark UI with dashboards, charts, and built‑in attack dete
 2. Run the installer (creates Start‑menu and Desktop shortcuts).
 3. Launch **Log Analyzer Pro**, then **File → Add Access Log…**.
 No extra runtime is required — Qt, the MSVC runtime, and dependencies are bundled.
- 
-## 🛠 Build from source
- 
-**Requirements:** Qt 6.5+ (MSVC 64‑bit, incl. Qt Charts), Visual Studio 2022 (C++), CMake 3.21+, zlib, and NSIS (for the installer).
 
 ## 👤 Author
 **Sohaib JadAllah** - cybersecurity / blue‑team & systems developer.
