@@ -77,6 +77,3 @@ See the [Releases](../../releases) page for what's new in each version.
 **Sohaib JadAllah** — cybersecurity / blue-team & systems developer.
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sohaibjadallah) · [SRJTools](https://github.com/SRJTools)
 
----
-
-<sub>IP geolocation data (when you use a DB-IP database): [IP Geolocation by DB-IP](https://db-ip.com), licensed under CC BY 4.0.</sub>
