@@ -49,7 +49,7 @@ charts, built-in attack detection and alerts that take you straight to the evide
 
 ## 📥 Install
 
-1. Go to **[Releases](../../releases/latest)** and download `LogAnalyzerPro-<version>-win64-setup.exe`.
+1. Go to **[Releases](../../releases/latest)** and download `LogAnalyzerPro-1.2.0-win64-setup.exe`.
 2. Run the installer (Start-menu + Desktop shortcuts). No extra runtime is needed — Qt, the MSVC runtime and all DLLs are bundled.
 3. Launch **Log Analyzer Pro**, then **File → Add Access Log…**.
 
@@ -57,12 +57,12 @@ charts, built-in attack detection and alerts that take you straight to the evide
 > warns about an unknown publisher. Click **More info → Run anyway**.
 > You can verify the download against the `.sha256` file published with each release:
 > ```
-> certutil -hashfile LogAnalyzerPro-<version>-win64-setup.exe SHA256
+> certutil -hashfile LogAnalyzerPro-1.2.0-win64-setup.exe SHA256
 > ```
 
 ## 🌍 GeoIP (optional, free)
 
-1. Download **IP to City Lite** (MMDB format) from [db-ip.com/db/lite.php](https://db-ip.com/db/lite.php) and unzip the `.gz` to get the `.mmdb` file.
+1. Download **IP to City Lite** (MMDB format) from [https://cdn.jsdelivr.net/npm/geolite2-city/GeoLite2-City.mmdb.gz](https://cdn.jsdelivr.net/npm/geolite2-city/GeoLite2-City.mmdb.gz) and unzip the `.gz` to get the `.mmdb` file.
 2. In the app: **Analysis → Set GeoIP Database…** and pick the file. It is remembered for next time.
 3. Refresh it monthly for up-to-date data.
 
